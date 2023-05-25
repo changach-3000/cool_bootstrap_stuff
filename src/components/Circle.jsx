@@ -6,9 +6,9 @@ function Circle() {
         <section class="iq-features">
             <div class="container">
                <div class="row align-items-center">
-                  <div class="col-lg-3 col-md-12">
-                    
-                  </div>
+                  {/* <div class="col-lg-3 col-md-12">
+
+                  </div> */}
                   <div class="col-lg-6 col-md-12">
                      <div class="holderCircle">
                         <div class="round"></div>
